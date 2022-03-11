@@ -1,0 +1,14 @@
+{
+  "name": "rifaCletha-API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sabrinacasemiro/rifaCletha-API.git",
+  "author": "<sabrincasemiro@gmail.com>",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "googleapis": "^95.0.0"
+  }
+}

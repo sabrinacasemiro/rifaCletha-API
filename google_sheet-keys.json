@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ultra-badge-343423",
+  "private_key_id": "be102339348b9672be1d71631fe940aa276b7654",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDInSiXhm3h73w1\n+wu+p1ZIs1REwDvp/gpaE/3jPEP3B0ZfEkjaeoxtof/3DEjbyny/toT2fkGg+cPr\nLkqvZ4K5ngyht1qfmTuud1DKDyh+t7pzhn4cBcOrlvNJW3G7eQ42m6FxZ7RjN8QV\nfEovmloAetuH1yiPEVFzp6eN2Uk9/jW04gxOYcl5uXq9Cr6fuVegLAa+CcTX0gMW\nMteOFEWawDXipFaOLmn7S7Z8dLZGjGebvblk8XnRKpCHIuK5fZzUvPs3Wa7ridye\nuFI6FaK5esmzMpn4WNooAxRykRF0C5FsLs2orOhHlrLZR9SJlWy5aXEsDZAcDIug\nfi39xUYdAgMBAAECggEAE8QzD7BV0KvWwpWDHryWKoD2OJ/y8fyZ6y41Fy1aSlNp\nLPeRk2qnvir2xtIVtlzz1bVCJ0IMGAmustQo1QePQILAyTOrtjX+72h03rPc+uoC\nG7KQvRTEUXqEwMxFydcE/inEynZmtlqe82RVBZkLwn2ty8CjZRVWaogxC4TxS9jn\napM+/EblJC/DTTAJNjc39zJCwBG/M2X//NMnX7tCfuJoVug2BlleSZcMeGL5lhwp\n8xwfxFJouB7PSJ+Kq0BbzafB/tU47YsFiIzob+qb0g2VYtFyHIPBz7RRP1X0fc2J\nAmYvz93nZw3nTfha8U4/1Qa843B63nvpSYOamvin8QKBgQD8LKVLv4qnS6yx7p4i\nm0anTvjIUuWhhDvoytIuSqaD7F2FmMBqtMEGSYDoB1QK9anudfzQz+F19HJVFDyl\n2bYNa7y+a2UMK5v889pdM+2x4sS2Krj98CwRFdYiKr3PqMIbrVjjXPc6ritJiC91\nm4/wyvBoQgXatndEUPjd0l1l5wKBgQDLqEVA66P2PKgARX2kEYpIkDn8TePWKJ3Y\nNqNBs89aafL5SevdvW+IDOwh1v47a+6udX1YanodxNiAFVTLskDAmHyGU+Of1qkx\nTMkXWajSycH980xTHQiJgIPqeJf0hc070E+rXTDsW9bIJvq7r4v3mWzaoN7qPqx+\nOnJ9huHrWwKBgDXUufxviQOpbdYV3//3MZ/phcYNnCNcfQV2tmNXYDBtNpGcSAb/\nSu0yp6fgWJp2Uq4q1asllTV+1yE+TqwAy5IV25ayikGM1aGr1INs4GLGy8MvX4ol\nyOJkzO9CPH6lwbnyyTTP1Z7bKzZpMehjKtj2GVfIMEO+C7uzpUyE6ZclAoGAEEiM\nAPzWR0HiTONBgHTGkba2bC3uIZltxXPY6c/urFP8UWJPsZML79zYpHwEJ8whcWGD\nfCZHTUoH5XXPKdo+wyduDW93q7gGHyL8kRliHjhzglKJr7uKizPzWDP8MljgZ//n\n3tO8ralKKway1X7buhhSU8i5ChGoyQ7zSIYYWjECgYAfrcpnSi1ZbJG/Ygi5LImQ\nFqlapsEv7ylHVlUWHz/GojEmd93jZAhh4Do+z/gy4inhcCwJkNGrKGzUPvaHLqB0\nc7KBvfBPLPGIyKkPGTy27DruJQxQr47fIr1HUVXtspB9PPQVbOmMJxZxDj8jFZJj\ncwFwA/UCrLCSzwVHju8FmQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "projeto-cletha@ultra-badge-343423.iam.gserviceaccount.com",
+  "client_id": "110102408957310874899",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/projeto-cletha%40ultra-badge-343423.iam.gserviceaccount.com"
+}
